@@ -10,10 +10,10 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [ x ] The introduction section explains the background of the company and how many games remain unfunded.
+* [ x ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [ x ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [ x ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/301df51845ba46c0894dfe9823fcc2f0?sid=966414cb-289a-49ef-8dd2-1aa42500106a' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='https://www.loom.com/share/301df51845ba46c0894dfe9823fcc2f0?sid=966414cb-289a-49ef-8dd2-1aa42500106a'>Video Walkthrough<a/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Loom!  
@@ -34,7 +34,7 @@ Video created with Loom!
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Not too many challenges were encountered when creating this app (mainly due to the helpful prework instructions)! 
 
 ## License
 
